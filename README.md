@@ -9,6 +9,12 @@ Usage
 
 Make sure, you’re using [Sass](http://sass-lang.com/) and [Compass](http://compass-style.org/).
 
+    gem install github-badge
+
+config.rb
+
+    require "github-badge"
+
 HTML:
 
     <a id="github" href="https://github.com/hagenburger">

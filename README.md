@@ -58,7 +58,7 @@ Dependencies
 Licence
 -------
 
-Released under the MIT Licence. See MIT-LICENCE for details.
+Released under the MIT License. See [MIT-LICENSE](https://github.com/hagenburger/github-badge/blob/master/MIT-LICENSE) for details.
 
 © [Nico Hagenburger](http://www.hagenburger.net/) 2011
 

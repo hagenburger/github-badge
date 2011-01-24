@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = ">= 1.3.6"
 
-  s.add_dependency "sass", ">= 3.1.0.alpha.0"
+  s.add_dependency "sass", ">= 3.1.0.alpha.214"
   s.add_dependency "compass", ">= 0.10.0"
   
   s.add_development_dependency "bundler", ">= 1.0.0"
